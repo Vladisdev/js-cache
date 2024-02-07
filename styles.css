@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+}
+
+#posts {
+  max-width: 1220px;
+  margin-inline: auto;
+
+  display: flex;
+  flex-direction: column;
+
+  row-gap: 30px;
+}
